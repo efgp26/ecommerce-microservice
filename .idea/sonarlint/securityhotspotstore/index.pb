@@ -37,3 +37,23 @@ N
 microservice-shipments/pom.xml,e\b\ebe1008feb75de288da43aafc7d5e30eb2ccb13f
 Q
 !microservice-shoppingCart/pom.xml,a\8\a8597329cc08ae38579f317905130f7a63d24500
+~
+Nmicroservice-user/src/main/java/com/microservice/user/entities/UserEntity.java,0\f\0fefd708183e7af519a649a1aeaa3014440d5ffc
+â
+Ymicroservice-products/src/main/java/com/microservice/products/entities/ProductEntity.java,6\8\68e0f1d48ce789b9abf599b02bc1a22bb5b9f9c6
+Ñ
+Tmicroservice-orders/src/main/java/com/microservice/orders/entities/OrdersEntity.java,4\a\4a5194005b24636912b34d166a1a8a8f18a920eb
+ç
+]microservice-shipments/src/main/java/com/microservice/shipments/entities/ShipmentsEntity.java,5\a\5aeaec1f82e1fbe5cc252d0a3e23deb308e6bd82
+ê
+`microservice-categories/src/main/java/com/microservice/categories/entities/CategoriesEntity.java,5\1\51432aee703c588ea4b406bc134bee047fc35b8c
+ñ
+fmicroservice-shoppingCart/src/main/java/com/microservice/shoppingCart/entities/ShoppingCartEntity.java,0\b\0bfac7376e6d55c553a498666285454e0d9eaa9f
+ú
+lmicroservice-productReviews/src/main/java/com/microservice/productReviews/entities/ProductReviewsEntity.java,7\b\7b71402154b8c884afa7f15abeb8e3e4bc400152
+ü
+omicroservice-discountCoupons/src/main/java/com/microservice/discountCoupons/entities/DiscountCouponsEntity.java,3\f\3fe0600a3f726ca5b768c6ec53c3fceb49eb17bf
+ã
+[microservice-shipments/src/main/java/com/microservice/shipments/entities/stadeShipment.java,a\d\ad2d284ff42de5b0cae5f22be313db8b993f4fb0
+ã
+[microservice-shipments/src/main/java/com/microservice/shipments/entities/StadeShipment.java,9\4\945d28fbe70eb1d0e7382a148c2bd6335a3b734c
