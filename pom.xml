@@ -31,6 +31,7 @@
     <module>microservice-payments</module>
     <module>microservice-productReviews</module>
     <module>microservice-discountCoupons</module>
+
   </modules>
 
   <properties>

@@ -18,7 +18,7 @@ spring:
           uri: http://localhost:8090
           predicates:
             - Path=/microservice/user/**
-        - id: courses
-          uri: http://localhost:9090
+        - id: products
+          uri: http://localhost:8091
           predicates:
-            - Path=/api/course/**
+            - Path=/microservice/products/**

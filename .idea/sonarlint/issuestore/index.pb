@@ -73,3 +73,25 @@ Tmicroservice-user/src/main/java/com/microservice/user/controller/UserController
 Qmicroservice-user/src/main/java/com/microservice/user/controller/dto/UserDTO.java,8\e\8e52936d51dfd04fef56169abfe487910ba7919a
 Ü
 Vmicroservice-user/src/main/java/com/microservice/user/controller/dto/ApiResponses.java,d\3\d36f371fc2fc1446fae11102c7cb150fef1784fc
+è
+_microservice-products/src/main/java/com/microservice/products/repository/ProductRepository.java,6\5\659e9f9c74455a88cfe396f8d5cbea5eb1697682
+ä
+Zmicroservice-products/src/main/java/com/microservice/products/persistence/IProductDAO.java,6\0\6059ab208435e1036fb589580a350d9d31b16bda
+í
+bmicroservice-products/src/main/java/com/microservice/products/persistence/impl/productDAOImpl.java,5\d\5d1e28e63bfa82f40be7d6344afbb5c3efe30943
+ã
+[microservice-products/src/main/java/com/microservice/products/services/IProductService.java,2\0\20c1058f244db24356e71d9090145eb0c6bd9efd
+ì
+cmicroservice-products/src/main/java/com/microservice/products/services/impl/ProductServiceImpl.java,d\d\dd11d74ddab9f4d28028a5fde5165c4d52e28bb6
+å
+\microservice-products/src/main/java/com/microservice/products/controller/dto/ProductDTO.java,7\5\75cc1c3af524ed81bd4da37e57dd16ce059fe554
+è
+_microservice-products/src/main/java/com/microservice/products/controller/ProductController.java,7\5\7588ae09141ec8a7c5e198bd73b6b4fb95ebf74a
+é
+^microservice-products/src/main/java/com/microservice/products/controller/dto/ApiResponses.java,9\e\9eea71440462d7767b24a3c76e0150ca963f844e
+í
+bmicroservice-products/src/main/java/com/microservice/products/MicroserviceProductsApplication.java,a\1\a14435336f72b3813d90b5beab7687c49ab21782
+L
+microservice-generic/pom.xml,c\4\c4b75c1d70617b4daa06e86ac6a9e52b339dfd38
+O
+microservice-generic/.gitignore,f\d\fd3be9a13f6c2c08144a1ba2e3eab58785360d0e

@@ -1,0 +1,15 @@
+package com.microservice.products.persistence;
+
+import com.microservice.products.entities.ProductEntity;
+import org.bson.types.ObjectId;
+
+import java.util.List;
+import java.util.Optional;
+
+public interface IProductDAO {
+
+    Optional<ProductEntity> findByIdObject(ObjectId id);
+    List<ProductEntity> findAll();
+    void save(ProductEntity user);
+    void deleteById(ObjectId id);
+}

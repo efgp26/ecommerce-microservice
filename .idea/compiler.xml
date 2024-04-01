@@ -7,19 +7,22 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="microservice-gateway" />
-        <module name="microservice-categories" />
         <module name="microservice-productReviews" />
-        <module name="microservice-payments" />
-        <module name="microservice-config" />
-        <module name="microservice-discountCoupons" />
         <module name="microservice-orders" />
         <module name="microservice-shipments" />
         <module name="microservice-user" />
+        <module name="microservice-categories" />
+        <module name="microservice-payments" />
+        <module name="microservice-config" />
+        <module name="microservice-discountCoupons" />
         <module name="microservice-shoppingCart" />
         <module name="microservice-eureka" />
         <module name="microservice-products" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservice-generic" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
@@ -28,6 +31,7 @@
       <module name="microservice-discountCoupons" options="-parameters" />
       <module name="microservice-eureka" options="-parameters" />
       <module name="microservice-gateway" options="-parameters" />
+      <module name="microservice-generic" options="-parameters" />
       <module name="microservice-orders" options="-parameters" />
       <module name="microservice-payments" options="-parameters" />
       <module name="microservice-productReviews" options="-parameters" />

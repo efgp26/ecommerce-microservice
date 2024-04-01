@@ -1,12 +1,10 @@
-package com.microservice.products.entities;
+package com.microservice.products.controller.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.bson.types.ObjectId;
-import org.springframework.data.annotation.Id;
-import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.math.BigDecimal;
 
@@ -14,9 +12,7 @@ import java.math.BigDecimal;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-@Document(collection  = "products_ecommerce")
-public class ProductEntity
-{
+public class ProductDTO {
 
     private ObjectId id;
     private String name;
@@ -25,6 +21,6 @@ public class ProductEntity
     private String amount;
     private String image;
     private Long userId;
-    private Integer stock;
     private Long categoriesId;
+    private Integer stock;
 }
